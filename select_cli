@@ -1,0 +1,1 @@
+Select ccodigo, cnome, ctipo, cgrupo, cultsemativa from clientes where csemlancamento >= '202240';
